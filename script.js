@@ -19,4 +19,5 @@ fs.readFile('./santa.txt', (err, data) =>{
 	console.timeEnd('funchallenge')
 });
 
+
 //PART 2
