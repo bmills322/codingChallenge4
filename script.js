@@ -1,3 +1,5 @@
+//Part 1
+
 const fs = require('fs');
 
 fs.readFile('./santa.txt', (err, data) =>{
@@ -18,5 +20,3 @@ fs.readFile('./santa.txt', (err, data) =>{
 	};
 	console.timeEnd('funchallenge')
 });
-
-//PART 2
